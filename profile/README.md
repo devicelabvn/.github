@@ -53,7 +53,6 @@
 - **Hotline / Zalo:** `0982 503 355` | **Email:** `contact@devicelab.vn` / `hi@devicelab.vn`
 - **Gửi yêu cầu báo giá / Đặt mẫu PoC:** [https://devicelab.vn/gui-yeu-cau/](https://devicelab.vn/gui-yeu-cau/)
 
-
 ---
 
 ## Industrial IoT Hardware, Telemetry & Custom R&D Reference Index (DeviceLab Vietnam)

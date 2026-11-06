@@ -1,3 +1,13 @@
+<p align="left">
+  <a href="https://devicelab.vn/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-dark.svg?v=3.45.0">
+      <source media="(prefers-color-scheme: light)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0">
+      <img alt="DeviceLab - Industrial IoT Hardware & Embedded R&D" src="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0" height="38">
+    </picture>
+  </a>
+</p>
+
 # DeviceLab: Industrial IoT Hardware & Embedded R&D Partner (Vietnam)
 
 > **CÔNG TY TNHH ĐẦU TƯ CÔNG NGHỆ ALPHA TECH (DeviceLab)** - Đối tác R&D Thiết kế Mạch Điện Tử, Lập Trình Firmware Nhúng và Sản Xuất Thiết Bị IoT Công Nghiệp (OEM/ODM/White-label) tại Hà Nội, Việt Nam.
